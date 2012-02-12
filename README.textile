@@ -1,11 +1,12 @@
-h1. PinSafari Extension
+h2. Description
 
-A pinboard.in extension for Safari. Just the basics for now--click the toolbar button to add the current page as a bookmark in pinboard.in.
+PinSafari is a Safari extension for saving bookmarks to "Pinboard":http://pinboard.in/ originally written by "Jake Bell":https://github.com/theunraveler/.
 
-h2. Download
+h2. Requirements
 
-"http://github.com/downloads/theunraveler/Pinboard.in-Safari-Extension/pinsafari.safariextz":http://github.com/downloads/theunraveler/Pinboard.in-Safari-Extension/pinsafari.safariextz
+Safari 5.0 or greater
 
-h2. Upcoming features
+h2. Usage
 
-I'm planning to make it look a bit prettier, firstly. I'd like to add a pretty menu that pops up rather than redirecting to the ugly, unstyled pinboard.in page to add the bookmark. Also, hope to implement growl notifications once I dive into this extensions API a bit further.
+1. Install the current "release":https://github.com/stefanschmidt/Pinboard.in-Safari-Extension/downloads
+2. Right-click the Safari toolbar and select "Customize Toolbar..." to add the PinSafari icon to the toolbar
