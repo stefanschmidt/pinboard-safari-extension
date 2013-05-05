@@ -8,5 +8,5 @@ Safari 5.0 or greater
 
 h2. Usage
 
-1. Install the current "release":https://github.com/downloads/stefanschmidt/Pinboard-Safari-Extension/pinsafari.safariextz
+1. Install the current "release":http://stefanschmidt.github.io/downloads/pinsafari.safariextz
 2. Right-click the Safari toolbar and select "Customize Toolbar..." to add the PinSafari icon to the toolbar
